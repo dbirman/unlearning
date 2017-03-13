@@ -1,13 +1,46 @@
-#1: Describe your strategy for the task:
+#1: Describe your strategy for the task
+
+Initially - trying to figure out the bottom half more than bottom, "see some absolutely clearly and then the periphery", now paying more attention to the center circles most clearly and less the outside. Describes it like waking up, eye is centered but "let her eyes go wide" to see the full stimulus, kind of as if it's blurred.
+
+#1a - counting: not counting or anything else
+
 #2: Did your strategy change over time?
+
+// see above
+
 #3: If I were to tell you that there were other features than the orientation that would have helped you solve the task, what would you say?
+
+Percentage vs. number? Always equal number of lines. Knowing at the number or percentage. 
+
+#3a brightness: brightness stood out, 50% of wrong answers were becaues of brightest lines
+
 #4: Did you use any other features than the orientation of the bars to solve the task?
+
+No
+
 #5: If I were to tell you that an important feature was the pattern of circles present on the screen. What would you say?
+
+Can't comprehend that speed--maybe slower could find another way
+
 #6: Do you think you would have eventually noticed the spatial pattern?
+
+// 
+
 #6: If I told you that there was a "rule" regarding the pattern of circles in the first and second stimulus, can you guess what the rule was?
+
+No idea at all--"same pattern but rotated" - guess
+
 #7: The rule was "same->press left, different->press right", did you have any idea?
+
+Not at all
+
 #8: Would you have eventually learned the rule?
+
+No--told looking for
+
 #9: Let's try the task again using the rule.
+
+
 
 /// FINAL CAVEAT
 #10: Do you agree not to tell anybody about the rule?
