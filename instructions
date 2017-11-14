@@ -1,5 +1,6 @@
  - The contrast differences don't have any meaning
  - The experiment looks at long term learning of a very difficult task to see whether you get better over time. 
+<<<<<<< Updated upstream
  - The best strategy 
 
 
@@ -10,3 +11,6 @@
   -- change stimulus
   -- change timing
   -- add a "known" flag for when they know the rule
+=======
+ - The best strategy is to focus on all of the 
+>>>>>>> Stashed changes
